@@ -1,0 +1,192 @@
+The matrix C is 500 x 500 executed successfully with number of threads 2
+Execution time in seconds: 0.113058
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 2
+Execution time in seconds: 0.678086
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 2
+Execution time in seconds: 2.303101
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 2
+Execution time in seconds: 6.214666
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 2
+Execution time in seconds: 14.089737
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 2
+Execution time in seconds: 79.565340
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 2
+Execution time in seconds: 151.514385
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 2
+Execution time in seconds: 227.860222
+
+The matrix C is 500 x 500 executed successfully with number of threads 4
+Execution time in seconds: 0.069224
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 4
+Execution time in seconds: 0.391618
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 4
+Execution time in seconds: 1.239180
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 4
+Execution time in seconds: 3.436780
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 4
+Execution time in seconds: 7.552753
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 4
+Execution time in seconds: 30.720840
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 4
+Execution time in seconds: 68.392027
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 4
+Execution time in seconds: 108.136182
+
+The matrix C is 500 x 500 executed successfully with number of threads 6
+Execution time in seconds: 0.066154
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 6
+Execution time in seconds: 0.404070
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 6
+Execution time in seconds: 1.340009
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 6
+Execution time in seconds: 3.785789
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 6
+Execution time in seconds: 7.958564
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 6
+Execution time in seconds: 25.160885
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 6
+Execution time in seconds: 56.135823
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 6
+Execution time in seconds: 87.399507
+
+The matrix C is 500 x 500 executed successfully with number of threads 8
+Execution time in seconds: 0.072914
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 8
+Execution time in seconds: 0.395776
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 8
+Execution time in seconds: 1.359722
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 8
+Execution time in seconds: 3.578815
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 8
+Execution time in seconds: 7.701154
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 8
+Execution time in seconds: 21.895343
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 8
+Execution time in seconds: 48.380070
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 8
+Execution time in seconds: 73.711809
+
+The matrix C is 500 x 500 executed successfully with number of threads 10
+Execution time in seconds: 0.087010
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 10
+Execution time in seconds: 0.373792
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 10
+Execution time in seconds: 1.336621
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 10
+Execution time in seconds: 3.352590
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 10
+Execution time in seconds: 7.387579
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 10
+Execution time in seconds: 20.895394
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 10
+Execution time in seconds: 45.563821
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 10
+Execution time in seconds: 72.156099
+
+The matrix C is 500 x 500 executed successfully with number of threads 12
+Execution time in seconds: 0.079911
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 12
+Execution time in seconds: 0.406932
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 12
+Execution time in seconds: 1.316702
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 12
+Execution time in seconds: 3.408712
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 12
+Execution time in seconds: 7.398387
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 12
+Execution time in seconds: 19.888912
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 12
+Execution time in seconds: 46.130722
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 12
+Execution time in seconds: 72.562004
+
+The matrix C is 500 x 500 executed successfully with number of threads 14
+Execution time in seconds: 0.075133
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 14
+Execution time in seconds: 0.397707
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 14
+Execution time in seconds: 1.312958
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 14
+Execution time in seconds: 3.360073
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 14
+Execution time in seconds: 7.303591
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 14
+Execution time in seconds: 20.190144
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 14
+Execution time in seconds: 45.288780
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 14
+Execution time in seconds: 71.384591
+
+The matrix C is 500 x 500 executed successfully with number of threads 16
+Execution time in seconds: 0.073086
+
+The matrix C is 1000 x 1000 executed successfully with number of threads 16
+Execution time in seconds: 0.407911
+
+The matrix C is 1500 x 1500 executed successfully with number of threads 16
+Execution time in seconds: 1.273848
+
+The matrix C is 2000 x 2000 executed successfully with number of threads 16
+Execution time in seconds: 3.293090
+
+The matrix C is 2500 x 2500 executed successfully with number of threads 16
+Execution time in seconds: 7.328614
+
+The matrix C is 3000 x 3000 executed successfully with number of threads 16
+Execution time in seconds: 19.720953
+
+The matrix C is 3500 x 3500 executed successfully with number of threads 16
+Execution time in seconds: 45.080389
+
+The matrix C is 4000 x 4000 executed successfully with number of threads 16
+Execution time in seconds: 71.267587
+
