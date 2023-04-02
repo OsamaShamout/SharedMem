@@ -5,17 +5,21 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/opt/homebrew/opt/libomp/**",
-                "/opt/homebrew/Cellar/libomp/16.0.0/include"
+                "/opt/homebrew/Cellar/libomp/16.0.0/include",
+                "/opt/homebrew/Cellar/gcc/12.2.0/lib/gcc/current/gcc/aarch64-apple-darwin22/12/include/"
             ],
             "defines": [],
             "macFrameworkPath": [
                 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
             ],
-            "compilerPath": "/usr/bin/clang",
+            "compilerPath": "/usr/bin/gcc",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "macos-clang-arm64",
-            "compilerArgs": []
+            "intelliSenseMode": "macos-gcc-arm64",
+            "compilerArgs": [],
+            "forcedInclude": [
+                "/opt/homebrew/Cellar/libomp/16.0.0/include/omp.h"
+            ]
         }
     ],
     "version": 4
