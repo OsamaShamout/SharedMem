@@ -9,9 +9,25 @@ if [ ! -f "$output" ]; then
     touch "$output"
 fi
 
-for ((j=1; j<=12; j+=1)); do
-    for((i=500; i<=4000; i+=500)); do
+for ((j=1; j<=11; j+=1)); do
+    for((i=500; i<=3500; i+=500)); do
         ./matrixmult-pthreads "$j" "$i" "$i" "$i" "$i"  >> "$output" 2>&1
     done
 done
 
+for each thread t:
+    compute start and end column indices for thread t
+
+for each thread t:
+    create a new thread that runs the slave function with argument t
+
+for each thread t:
+    wait for thread t to finish execution
+
+slave function:
+    for each column j assigned to the thread:
+        for each row i:
+            compute C[i][j] += A[i][k] * B[k][j]
+            lock mutex
+            update C[i][j]
+            unlock mutex

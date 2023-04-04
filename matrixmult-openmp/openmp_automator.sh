@@ -9,8 +9,8 @@ if [ ! -f "$output" ]; then
     touch "$output"
 fi
 
-for ((j=0; j<=12; j+=1)); do
-    for((i=500; i<=4000; i+=500)); do
+for ((j=1; j<=11; j+=1)); do
+    for((i=500; i<=3500; i+=500)); do
         ./matrixmult-openmp "$j" "$i" "$i" "$i" "$i"  >> "$output" 2>&1
     done
 done
